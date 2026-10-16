@@ -1,0 +1,13 @@
+# Non Profitable Drugs
+
+| Field | Value |
+|---|---|
+| Platform | DataLemur |
+| Difficulty | Easy |
+| Company | CVS Health |
+| Category | SQL |
+| Problem | [Non Profitable Drugs](https://datalemur.com/questions/non-profitable-drugs) |
+
+## Solutions
+
+- [SQL](./solution.sql)
